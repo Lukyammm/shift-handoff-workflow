@@ -1,17 +1,49 @@
-# Assessor
+# Shift Handoff System
 
+Repository: `passagem-plantao`
 
+## Overview
 
+Shift handoff app for pending items, status tracking, handoff records, modal entry, dashboard summaries, and history.
 
-## Guia visual do sistema
+## Main Capabilities
 
-> Telas demonstrativas baseadas nos componentes, textos, cores e fluxos encontrados no código deste repositório. Os dados exibidos são fictícios e não representam pacientes, profissionais ou instituições reais.
+- Handoff list with filters and status chips.
+- Entry modal for patient, unit, pending item, owner, status, and notes.
+- Dashboard by open, in-progress, completed, and canceled handoffs.
+- Historical view for shift continuity.
 
-### Passagem de Plantão - lista
-![Passagem de Plantão - lista](./docs/screenshots/lista-plantao.svg)
+## Operating Flow
 
-### Passagem de Plantão - modal
-![Passagem de Plantão - modal](./docs/screenshots/modal-passagem.svg)
+1. Open a new handoff item from the list.
+2. Fill in unit, owner, pending item, and status.
+3. Track the item through the shift dashboard.
+4. Close or cancel the handoff when the issue is resolved.
 
-### Passagem de Plantão - dashboard
-![Passagem de Plantão - dashboard](./docs/screenshots/dashboard-plantao.svg)
+## Visual System Guide
+
+> The screens below are documentation mockups based on the components, labels, colors, and workflows found in this repository. All displayed data is fictitious and does not represent real patients, staff members, or institutions.
+
+### Shift Handoff - list
+![Shift Handoff - list](./docs/screenshots/shift-list.svg)
+
+### Shift Handoff - entry modal
+![Shift Handoff - entry modal](./docs/screenshots/handoff-modal.svg)
+
+### Shift Handoff - dashboard
+![Shift Handoff - dashboard](./docs/screenshots/shift-dashboard.svg)
+
+## Data Privacy
+
+The repository documentation and guide images use fictitious sample data only.
+
+## Technologies
+
+- JavaScript
+- HTML/CSS
+- Google Apps Script
+- Google Sheets
+
+## Status
+
+Completed
