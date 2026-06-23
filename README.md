@@ -1,6 +1,6 @@
-# Shift Handoff System
+# Shift Handoff Workflow
 
-Repository: `passagem-plantao`
+Repository: `shift-handoff-workflow`
 
 ## Overview
 
