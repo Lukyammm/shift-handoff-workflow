@@ -1,49 +1,62 @@
-# Shift Handoff Workflow
+﻿<div align="center">
+  
+  # Shift Handoff Workflow
 
-Repository: `shift-handoff-workflow`
+  ![Status](https://img.shields.io/badge/Status-Ativo-success?style=for-the-badge)
+  ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+  ![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
 
-## Overview
+</div>
 
-Shift handoff app for pending items, status tracking, handoff records, modal entry, dashboard summaries, and history.
+<br/>
 
-## Main Capabilities
+## ðŸŽ¯ VisÃ£o Geral
+**Shift Handoff Workflow** Ã© uma soluÃ§Ã£o focada na Ã¡rea da saÃºde e operaÃ§Ãµes clÃ­nicas. Este repositÃ³rio contÃ©m as ferramentas e os recursos necessÃ¡rios para melhorar processos, trazer clareza de dados e otimizar fluxos de trabalho. 
 
-- Handoff list with filters and status chips.
-- Entry modal for patient, unit, pending item, owner, status, and notes.
-- Dashboard by open, in-progress, completed, and canceled handoffs.
-- Historical view for shift continuity.
+> *Nota: Este projeto faz parte do portfÃ³lio de soluÃ§Ãµes clÃ­nicas e analÃ­ticas para gestÃ£o hospitalar e eficiÃªncia corporativa.*
 
-## Operating Flow
+---
 
-1. Open a new handoff item from the list.
-2. Fill in unit, owner, pending item, and status.
-3. Track the item through the shift dashboard.
-4. Close or cancel the handoff when the issue is resolved.
+## âœ¨ Principais Recursos
 
-## Visual System Guide
+- **ðŸ“Š Dashboards AnalÃ­ticos:** VisualizaÃ§Ã£o clara e moderna de mÃ©tricas crÃ­ticas.
+- **âš™ï¸ OtimizaÃ§Ã£o de Processos:** Fluxos de trabalho digitais que reduzem o esforÃ§o burocrÃ¡tico.
+- **ðŸ¥ Foco ClÃ­nico/Hospitalar:** Desenvolvido visando a realidade das operaÃ§Ãµes de saÃºde.
+- **ðŸ”’ SeguranÃ§a e Qualidade:** Foco em compliance e melhoria contÃ­nua.
 
-> The screens below are documentation mockups based on the components, labels, colors, and workflows found in this repository. All displayed data is fictitious and does not represent real patients, staff members, or institutions.
+---
 
-### Shift Handoff - list
-![Shift Handoff - list](./docs/screenshots/shift-list.svg)
+## ðŸ’» Tecnologias e Estrutura
 
-### Shift Handoff - entry modal
-![Shift Handoff - entry modal](./docs/screenshots/handoff-modal.svg)
+Este projeto utiliza prÃ¡ticas modernas de desenvolvimento para garantir manutenÃ§Ã£o simplificada e escalabilidade.
 
-### Shift Handoff - dashboard
-![Shift Handoff - dashboard](./docs/screenshots/shift-dashboard.svg)
+- PadrÃµes visuais atualizados
+- Estrutura clara de diretÃ³rios
+- Foco em usabilidade
 
-## Data Privacy
+---
 
-The repository documentation and guide images use fictitious sample data only.
+## ðŸš€ Como ComeÃ§ar
 
-## Technologies
+1. Clone o repositÃ³rio:
+   `ash
+   git clone https://github.com/Lukyammm/shift-handoff-workflow.git
+   `
+2. Acesse a pasta do projeto:
+   `ash
+   cd shift-handoff-workflow
+   `
+3. Consulte a documentaÃ§Ã£o interna para mais detalhes de configuraÃ§Ã£o e execuÃ§Ã£o.
 
-- JavaScript
-- HTML/CSS
-- Google Apps Script
-- Google Sheets
+---
 
-## Status
+## ðŸ¤ Contato e ContribuiÃ§Ã£o
 
-Completed
+Feito com dedicaÃ§Ã£o por **Lukyam Madeira**.
+Sinta-se Ã  vontade para explorar, abrir *issues* para dÃºvidas ou sugerir melhorias.
+
+<div align="center">
+  <a href="https://github.com/Lukyammm">
+    <img src="https://img.shields.io/badge/GitHub-Lukyammm-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+</div>
